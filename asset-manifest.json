@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/pat-brown-portfolio/static/js/main.4615375e.chunk.js",
+    "main.js.map": "/pat-brown-portfolio/static/js/main.4615375e.chunk.js.map",
+    "runtime-main.js": "/pat-brown-portfolio/static/js/runtime-main.369beecc.js",
+    "runtime-main.js.map": "/pat-brown-portfolio/static/js/runtime-main.369beecc.js.map",
+    "static/css/2.53150396.chunk.css": "/pat-brown-portfolio/static/css/2.53150396.chunk.css",
+    "static/js/2.349af01e.chunk.js": "/pat-brown-portfolio/static/js/2.349af01e.chunk.js",
+    "static/js/2.349af01e.chunk.js.map": "/pat-brown-portfolio/static/js/2.349af01e.chunk.js.map",
+    "index.html": "/pat-brown-portfolio/index.html",
+    "static/css/2.53150396.chunk.css.map": "/pat-brown-portfolio/static/css/2.53150396.chunk.css.map",
+    "static/js/2.349af01e.chunk.js.LICENSE.txt": "/pat-brown-portfolio/static/js/2.349af01e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.369beecc.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.349af01e.chunk.js",
+    "static/js/main.4615375e.chunk.js"
+  ]
+}
